@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{338DA58D-AF66-479E-8E5C-F84BC69701F1}|Default">
+  <MonoDevelop.Ide.ItemProperties.TP9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP9/Program.cs">
+    <Files>
+      <File FileName="TP9/Program.cs" Line="38" Column="53" />
+      <File FileName="TP9/Helpers/SoporteParaConfiguracion.cs" Line="9" Column="78" />
+      <File FileName="TP9/Helpers/ConversorDeMorse.cs" Line="72" Column="14" />
+      <File FileName="TP9/Helpers/IODeTexto.cs" Line="11" Column="76" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="TP9" expanded="True" selected="True">
+            <Node name="TP9" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP9/TP9/TP9/bin/Debug/TP9.exe
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP9/TP9/TP9/bin/Debug/TP9.pdb
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP9/TP9/TP9/obj/x86/Debug/TP9.csprojAssemblyReference.cache
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP9/TP9/TP9/obj/x86/Debug/TP9.csproj.CoreCompileInputs.cache
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP9/TP9/TP9/obj/x86/Debug/TP9.exe
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP9/TP9/TP9/obj/x86/Debug/TP9.pdb

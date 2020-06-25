@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{338DA58D-AF66-479E-8E5C-F84BC69701F1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP10.sln">
+    <Files>
+      <File FileName="TP10/Program.cs" Line="45" Column="51" />
+      <File FileName="TP10/Propiedad.cs" Line="37" Column="13" />
+      <File FileName="TP10/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="TP10/Helpers/SoporteParaConfiguracion.cs" Line="1" Column="1" />
+      <File FileName="TP10/Helpers/IODeTexto.cs" Line="1" Column="1" />
+      <File FileName="TP10/Helpers/ConversorDeMorse.cs" Line="1" Column="1" />
+      <File FileName="TP10.sln" Line="4" Column="62" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="TP10" expanded="True">
+            <Node name="TP10" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TP10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
